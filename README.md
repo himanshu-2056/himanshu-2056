@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [legacylibrary](https://legacylibrary.vercel.app/)
 
-- 🌱 I’m currently learning **NodeJS and MongoDB**
+- 🌱 I’m currently learning **Wordpress and PHP**
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, React and Strapi**
 
